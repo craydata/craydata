@@ -1,17 +1,29 @@
 ### Hi there 👋
 
-As a seasoned professional in the analytics space, I possess an impressive portfolio of achievements. With six certifications in Salesforce, I have proven my expertise in this platform. Notably, I have been recognized twice as a Salesforce Trailhead Ranger and Einstein Analytics Specialist, showcasing my commitment to continuous learning and staying at the forefront of industry advancements.
 
-In addition to my proficiency in Salesforce, I have honed my skills in other cutting-edge analytics tools, including Tableau and Splunk. These tools have allowed me to explore data insights from multiple perspectives, enhancing the depth and accuracy of my analyses.
+## Salesforce & Tableau Experience:
 
-Throughout my career, I have demonstrated a strong ability to work both independently and collaboratively within diverse teams. My expertise extends to customizing Salesforce Marketing environments, where I have successfully implemented tailored solutions to meet specific business needs.
+Certified Salesforce Professional with extensive experience customizing Salesforce Marketing environments, driving streamlined business processes, and optimizing performance metrics.
+Proficient in Tableau for data analysis and dashboard design, transforming complex data into visually appealing and actionable insights, enhancing informed decision-making.
 
-An essential aspect of my work involves leveraging data analysis to identify opportunities for process improvement and efficiency gains. Through the strategic application of automation and the integration of innovative tools, I have consistently contributed to enhancing overall performance and decision-making across organizations.
+## Splunk Expertise:
 
-My dedication to maximizing employee productivity and fostering seamless interactions between products and services has been a driving force in my professional journey. Utilizing the full potential of Salesforce, Tableau, and Splunk, I have facilitated data-driven decision-making and enabled businesses to make informed choices based on reliable insights.
+Designed and implemented ground-up distributed Splunk installations, managing all Splunk server roles including Search Head, Indexers, Heavy Forwarders, and Universal Forwarders.
+Built and maintained a diverse range of content within Splunk ES, such as rules, offenses, dashboards, reports, apps, playbooks, and integrations, to support comprehensive security operations.
+Proficient in constructing data models that underpin the SIEM function within Splunk ES, facilitating efficient data analysis and correlation for robust threat detection and response. Utilized coding and scripting languages like Perl, Python, Bash, and JavaScript to develop custom solutions and integrations in Splunk, enhancing automation capabilities.
 
-In conclusion, my comprehensive skill set in Salesforce, Tableau, and Splunk positions me as a valuable asset in the analytics domain. I am eager to continue pushing the boundaries of data-driven excellence, making significant contributions to any analytics-driven team or project.
+## Data Analytics & Automation:
 
+Utilized data analysis skills to identify opportunities for process improvement, automating workflows, and integrating new tools for enhanced performance. Leveraged APIs and coding languages like Perl, Python, Bash, and JavaScript to perform basic automation and integration tasks, increasing operational efficiency and streamlining data workflows.
+
+## Cyber Security & Enterprise Technologies:
+
+Acquired domain knowledge in Cyber Security processes, contributing to proactive threat detection and mitigation.
+Familiarity with enterprise security technologies, including EDR, IDS/IPS, vulnerability scanners, and configuration management, enhancing their applicability in SIEM SOC processes.
+
+## Coding & Scripting Proficiency:
+
+Experience with coding and scripting and Search languages like SQL, SOQL, SAQL, SPL, Python, Ampscript enabling the development of custom solutions and integrations as needed. Leveraged coding proficiency to develop custom solutions and integrations within the Splunk and Salesforce Analytics platforms, driving automation and efficiency.
 <!--
 **craydata/craydata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
